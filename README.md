@@ -81,8 +81,9 @@ for sentence in sentences:
 
 <H3>Output</H3>
 
-https://github.com/anishmj/Ex-6--AAI/blob/main/image.png?raw=true
-https://github.com/anishmj/Ex-6--AAI/blob/main/image-1.png?raw=true
+![image](https://github.com/Lakshmipriya-P-AI/Ex-6--AAI/assets/93427923/7b09f6fb-aa2c-4385-97b3-48c260e44a53)
+![image](https://github.com/Lakshmipriya-P-AI/Ex-6--AAI/assets/93427923/936b6535-01fd-4c57-aa5c-ec07037eb28f)
+
 
 
 <H3>Result:</H3>
